@@ -1,0 +1,5 @@
+# Workspace-level ignores
+/agent/node_modules/
+/client/node_modules/
+/agent/.env
+/client/.env
